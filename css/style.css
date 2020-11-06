@@ -1,0 +1,196 @@
+#header{
+   background-image: url('./img/bg-hero-desktop.svg');
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(192, 100%, 96%);
+
+    
+}
+
+h2{
+    font-weight: 600;
+    padding-bottom: 1%;
+}
+p{
+    font-weight: 550;
+    padding-top: 3%;
+}
+.row{
+    padding: 30px 30px 30px 30px;
+    
+}
+#img-header{
+    width: 98%;
+    height: auto;
+    float: right;
+    
+}
+#div-img-header{
+    vertical-align: text-top;
+  
+    
+}
+.img-body{
+    width: 65%;
+    height: auto;
+    background-position: center center;
+}
+#button-1{
+    color:black;
+   border-radius: 30px;
+    font-weight: bold;
+    width: 60%;
+    height: 130%;
+    box-shadow: 2px 2px 10px #666;
+    float: right;
+}
+#img-logo{
+    width: 20%;
+    height: auto;
+}
+#col-text{
+    
+    
+   padding-top: 10%;
+  
+
+}
+#button-2{
+    color:white;
+    border-radius: 30px;
+    font-weight: 600;
+     width: 50%;
+     height: 15%;
+     background-color: hsl(322, 100%, 66%);
+
+    
+}
+.div-content{
+   box-shadow: 2px 2px 10px hsl(208, 11%, 55%);
+   border-radius: 15px;
+    margin: 0 8% 2% 8%;
+    height: 20em;
+    
+
+}
+.column-left{
+    padding-left: 7%;
+   
+}
+.item-right{
+ float: right;
+}
+.text-content{
+    vertical-align: middle;
+}
+#subready{
+    vertical-align: text-top;
+
+}
+#ready{
+
+}
+
+.container {
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1000px;
+}
+
+.center {
+    text-align: center;
+}
+
+.box {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    margin: 40px 0;
+    padding: 60px;
+}
+
+.small-box {
+    display: inline-block;
+    position: relative;
+    margin-bottom: -50%;
+    z-index: 1;
+}
+
+.btn {
+    border-radius: 50px;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 60px;
+}
+
+.btn-primary {
+    background-color: hsl(322, 100%, 66%);
+    color: #fff;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.flex > div,
+.flex > ul {
+    flex: 1;
+}
+
+.align-start {
+    align-items: flex-start;
+}
+
+.container {
+    padding: 0 10px;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1000px;
+}
+
+a {
+    text-decoration: none;
+    color: white;   
+}
+
+footer {
+    background-color: hsl(192, 100%, 9%);
+    color: #fff;
+    padding: 180px 0 60px;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    margin-bottom: 20px;
+}
+
+footer .social-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .circle {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
+    text-decoration: none;
+}
+
+footer p {
+    text-align: right;
+}
